@@ -44,3 +44,8 @@ a) Provides insights into customer ordering behavior to optimize staffing on pea
 b) Supports marketing teams to promote underperforming SKUs or retire them.
 c) Aids in supply chain and ingredient planning based on demand by category and size.
 
+6. Snapshots/Demos
+
+   https://github.com/SonaliPatra019/Pizza-Sales-Report/blob/main/Snapshot%20of%20Dashboard(1).png
+   
+
