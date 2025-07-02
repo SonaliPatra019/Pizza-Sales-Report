@@ -47,6 +47,7 @@ c) Aids in supply chain and ingredient planning based on demand by category and 
 6. Snapshots/Demos
    
 a) https://github.com/SonaliPatra019/Pizza-Sales-Report/blob/main/Snapshot%20of%20Dashboard(1).png
+
 b) https://github.com/SonaliPatra019/Pizza-Sales-Report/blob/main/Snapshot%20of%20Dashboard(2).png
    
 
