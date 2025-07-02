@@ -6,7 +6,7 @@ An interactive and data-driven dashboard created to analyze pizza sales performa
 
 2.📌 Short Description / Purpose
 
-The Pizza Pulse Dashboard is a dynamic Power BI report that visualizes key metrics and trends from a year’s worth of pizza sales data. It helps business stakeholders, restaurant managers, and analysts understand which pizza types drive the most revenue, when peak orders occur, and which items are underperforming—empowering more informed marketing, staffing, and inventory decisions.
+The Pizza Sales Dashboard is a dynamic Power BI report that visualizes key metrics and trends from a year’s worth of pizza sales data. It helps business stakeholders, restaurant managers, and analysts understand which pizza types drive the most revenue, when peak orders occur, and which items are underperforming—empowering more informed marketing, staffing, and inventory decisions.
 
 3.🛠️ Tech Stack
 
